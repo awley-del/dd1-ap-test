@@ -1,0 +1,16 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/activitystreams"
+  ],
+  "id": "https://awley-del.github.io/dd1-ap-test/actor.json",
+  "type": "Person",
+  "preferredUsername": "dd1test",
+  "name": "DD1 Test Actor",
+  "published": "2026-10-31T01:25:00Z",
+  "inbox": "https://webhook.site/879317d9-7fa2-4f3c-8685-cfa23aedfe7c",
+  "publicKey": {
+    "id": "https://awley-del.github.io/dd1-ap-test/actor.json#main-key",
+    "owner": "https://awley-del.github.io/dd1-ap-test/actor.json",
+    "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAx/rLBJ6cZSUgEY4G4WHX\nY3MWjWrIcthUae5HTq8Yh3zQVXMK3OHPb5/C474LhXsPv4dajHPZit92gmx6cxPb\n2mJDf+ivEOuZkxE71KQOEFj8KVkIodCjmDQkWzf07v5FdXVWze261tPXBJtxnN6E\nBuwEpXdf3izqXjNfAjjIsBFNG+eeeeg6od6/z+JUc5X9PnUs8f//IpPHCIqnWl/Q\n92zhPaA7Bzj4OAzZsYEkkFTknwsqFJCPGgYJMaQVs8oqSH3a0DpasyZiNfDOpVJv\nHZX2LjauQaD3qq8LVdSmqSULawL3oKhpOUCIDGIOmf6oA8QSqN/7OUUwCRqbMJmk\nfwIDAQAB\n-----END PUBLIC KEY-----\n"
+  }
+}
