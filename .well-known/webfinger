@@ -1,0 +1,10 @@
+{
+  "subject": "acct:dd1test@awley-del.github.io",
+  "links": [
+    {
+      "rel": "self",
+      "type": "application/activity+json",
+      "href": "https://awley-del.github.io/dd1-ap-test/actor.json"
+    }
+  ]
+}
